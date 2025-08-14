@@ -167,9 +167,13 @@ input[type=password]::-ms-clear
 #trustTitul{
 	font-weight: 600;
     color: #3d3d3d;
-    font-size: 22px;
+    font-size: 24px;
     margin: 30px 0 10px;
 }
 #messTrust{
-	
+	font-size: 18px;
+    letter-spacing: -1px;
+}
+#telTrust{
+	font-weight;600;
 }
