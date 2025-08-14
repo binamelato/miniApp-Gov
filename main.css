@@ -1,0 +1,283 @@
+@font-face {
+	font-family:'Lato-Bold';
+	src: local('Lato-Bold'), local('Lato-Bold'),
+	url('./fonts/Lato-Bold-v3.woff2') format('woff2');
+	font-weight:600;
+	font-style:normal;
+}
+@font-face {
+	font-family:'Lato-Regular';
+	src: local('Lato-Regular'), local('Lato-Regular'),
+	url('./fonts/Lato-Regular-v3.woff2') format('woff2');
+	font-weight:100;
+	font-style:normal;
+}
+*{
+	outline:none;
+	touch-action: manipulation;
+}
+body{
+	padding:0px;
+    margin:0px;
+	font-family:'Lato-Regular';
+}
+.animated {
+  -webkit-animation: rotation 1.4s infinite linear forwards;
+  animation: rotation 1.4s infinite linear forwards
+}
+
+@keyframes pulse {
+  from {
+    transform: scale3d(.6, .6, .6);
+    opacity: .4
+  }
+  to {
+    transform: scale3d(1.10, 1.10, 1.10);
+    opacity: 0
+  }
+}
+
+.pulse {
+  animation-name: pulse
+}
+
+.container-app-loader {
+  display: flex;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  z-index: 10000000000;
+  background: #fff;
+  opacity: 1
+}
+
+.container-pulse {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -100px;
+  width: 200px;
+  height: 200px;
+  opacity: .3
+}
+
+.container-app-logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -61px 0 0 -61px;
+  width: 122px;
+  height: 122px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.app-logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -50px 0 0 -50px;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hide-pixel {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+#mainPlace{	
+	height:100vh;
+}
+#placement{
+	padding:10px;
+	height:100%;
+}
+.fl{
+	display:flex;
+}
+.cl{
+	flex-direction:column;
+}
+.sb{
+	justify-content:space-between;
+}
+.cc{
+	align-items:center;
+    justify-content:center;
+}
+.headIcon{
+	width:60px;
+	height:60px;
+}
+.headIcon img, #centralLogo img{
+	width:100%;
+	height:100%;
+}
+#centralLogo{
+	width:120px;
+	height:120px;
+	margin:auto;
+}
+#signInButt, #signUpTop{
+	width:100%;
+	height:45px;
+	background-color:#175ac5;
+	padding:5px;
+	color:#fff;
+	border:none;
+	border-radius:9px;
+	font-size:14px;	
+}
+#signUpButt, #restLogin{
+	width:100%;	
+	padding:5px;
+	color:#175ac5;
+	border:none;
+	font-size:14px;
+	background-color:#ffffff;
+	height:45px;
+	margin:0 0 25px;
+	font-weight:600;	
+}
+#preRegBack, #sysMess{
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	position:fixed;
+	background-color:rgba(173,173,173,0.7);
+}
+#preloaderPage, #preRegForm, #realLogin, #progressLine{
+	transition: all .45s ease-in-out;
+}
+#preRegForm{
+	position: absolute;
+    height: 300px;
+    width: 100%;
+    bottom:-300px;/*0px*/
+    background-color: #ffffff;
+    box-shadow: 0 0 2px 1px #b3b3b3;
+    border-radius: 12px 12px 0 0;	
+	z-index:25;
+}
+#regLine{
+	width:60px;
+	height:5px;
+	border-radius:3px;
+	background-color:#ccc;
+	margin:10px auto;	
+}
+.preRegPodForm{
+	margin:10px;
+}
+#preRegTitul{
+	font-weight:600;
+	color:#000;	
+	font-size:18px;
+}
+#closePreRegForm{
+	color:#175ac5;
+	font-weight:600;	
+	font-size:14px;
+}
+.stroka{
+	min-height:35px;
+}
+.parf{
+	color: #3d3d3d;
+    font-size: 14px;
+    padding:5px 10px 20px 0;
+}
+#sysMess{
+    z-index:90;
+}
+#sysMessForm{
+	height: 200px;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 0 2px 1px #b3b3b3;
+    z-index: 90;
+    margin: 40px;
+	text-align: center;
+	border-radius:12px;
+}
+#sysMessTitul{
+	font-weight:600;
+	color:#3d3d3d;	
+	font-size:18px;
+	margin:30px 0 10px;
+}
+#sysMessText{
+	color:#3d3d3d;	
+	font-size:14px;
+	margin:20px 0 0;
+	padding:0 20px;
+}
+#sysMessLoader{
+	height:50px;
+}
+#sysMessLoader img{
+	height:100%;
+}
+.-hideF{
+	left:100%;	
+}
+#preloaderPage{
+	position:fixed;
+    z-index:25;
+    background-color:#fbfcff;
+    width:100%;
+    height:100%;
+    top:0px;
+}
+#preMess{
+	width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    position:fixed;
+}
+#preMessForm{
+	height: 180px;
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 0 2px 1px #e5e5e5;
+    z-index: 25;
+    margin: 40px;
+    text-align: center;
+    border-radius:12px;
+}
+#preHeaderTitul{
+    text-align:center;
+    line-height:75px;
+    font-weight:600;
+    font-size:16px;
+}
+#progressLine{
+	width:20%;
+    height:3px;
+    background-color:#4173cd;
+    border-radius:0 2px 2px 0;
+}
+#preLogoTitul{
+	width:120px;
+    margin:20px auto;
+}
+#preLogoTitul img{
+	width:100%;
+}
