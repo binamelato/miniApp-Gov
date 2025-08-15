@@ -31,7 +31,7 @@ input[type=password]::-ms-clear
     text-align:center;
     font-weight:600;
 	font-size:18px;
-	height:25px;
+	height:26px;
 }
 .cs{
 	flex-direction:column;
@@ -163,6 +163,7 @@ input[type=password]::-ms-clear
     left: 0px;
 	width: 100%;
 	background-color: #e5ecfe;
+	z-index:60;
 }
 #trustTitul{
 	font-weight: 600;
@@ -176,4 +177,36 @@ input[type=password]::-ms-clear
 }
 #telTrust{
 	font-weight;600;
+}
+.tCode{
+	width:50px;
+	height:48px;
+	margin:0px 4px;
+	padding:0px;
+	border:0px;
+	background-color:#f6f7fc;
+	border-radius:9px;
+	text-indent:15px;
+	font-size:17px;
+}
+.tact{
+	box-shadow:0 0 1px 2px #abbce7;
+}
+#titulCode{
+	padding:0px 20px;
+    position:relative;
+    font-size:14px;
+    font-weight:600;
+	
+}
+#tCodeTrust{
+	margin:20px auto 0;
+    width:180px;
+    font-size:14px;
+}
+#tTimer{
+	margin:5px auto 0;
+    width:45px;
+    font-size:16px;
+	font-weight:600;
 }
