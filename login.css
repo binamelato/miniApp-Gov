@@ -27,6 +27,16 @@ input[type=password]::-ms-clear
     width:30px;
     height:30px;
 }
+#backSUpBut img{
+	padding: 4px;
+    height: 20px;
+    width: 20px;
+}
+#backSUpBut{
+	margin: 0px;
+    box-shadow: 0 0 0px 4px #e5ecfe;
+    border-radius: 50%;
+}
 #dopHeaderTitul{
     text-align:center;
     font-weight:600;
@@ -176,7 +186,10 @@ input[type=password]::-ms-clear
     letter-spacing: -1px;
 }
 #telTrust{
-	font-weight;600;
+	font-weight:600;
+}
+.tCode:focus{ /* , .tCode:active */
+	box-shadow:0 0 1px 2px #abbce7;
 }
 .tCode{
 	width:50px;
@@ -186,11 +199,11 @@ input[type=password]::-ms-clear
 	border:0px;
 	background-color:#f6f7fc;
 	border-radius:9px;
-	text-indent:15px;
+	text-align:center;
 	font-size:17px;
 }
 .tact{
-	box-shadow:0 0 1px 2px #abbce7;
+	/*box-shadow:0 0 1px 2px #abbce7;*/
 }
 #titulCode{
 	padding:0px 20px;
@@ -203,6 +216,7 @@ input[type=password]::-ms-clear
 	margin:20px auto 0;
     width:180px;
     font-size:14px;
+	text-align: center;
 }
 #tTimer{
 	margin:5px auto 0;

