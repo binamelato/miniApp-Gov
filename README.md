@@ -45,5 +45,7 @@
   <p align="center">
     <img width="200" height="436" alt="Screenshot_2025_08_19-2" src="https://github.com/user-attachments/assets/46fcb087-27a4-4269-8e00-a5a638b22c19" />
     <img width="200" height="436" alt="Screenshot_2025_08_19-2" src="https://github.com/user-attachments/assets/16afe7ce-e22c-4981-84d8-6b765370139a" />
+    <img width="200" height="436" alt="Screenshot_2025_08_19-2" src="https://github.com/user-attachments/assets/d249eea3-3e60-4687-ba48-dd6dc99af4b2" />
+    <img width="200" height="436" alt="Screenshot_2025_08_19-2" src="https://github.com/user-attachments/assets/f3a8ac49-39b6-4f66-82e8-ad599e3bb58c" />
   </p>
 </details>
