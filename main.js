@@ -126,7 +126,7 @@ if(typeof GSspace !== "undefined"){
 			document.querySelector("#tTimerVal").insertAdjacentHTML("afterbegin", "<div id='tTimer'>00:59</div>");
 		}
 
-		var count = 18, timer = setInterval(function(){
+		var count = 58, timer = setInterval(function(){
 			var tik = count--;
 			if(tik.toString().length < 2){
 				tik = "0"+tik;
@@ -386,7 +386,7 @@ if(typeof GSspace !== "undefined"){
 				console.log("Отправка запроса на авторизацию: Логин: "+data[0]+" | Пароль: "+data[1]);
 				//запрос fetch
 				//===затычка вместо фетч
-				const trueLogin = "+79517773915";
+				const trueLogin = "+79530000000";
 				const truePass = "password";
 				
 				if(data[0] == trueLogin && data[1] == truePass){
