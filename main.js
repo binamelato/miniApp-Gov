@@ -386,7 +386,7 @@ if(typeof GSspace !== "undefined"){
 				console.log("Отправка запроса на авторизацию: Логин: "+data[0]+" | Пароль: "+data[1]);
 				//запрос fetch
 				//===затычка вместо фетч
-				const trueLogin = "+79530000000";
+				const trueLogin = "+79000000000";
 				const truePass = "password";
 				
 				if(data[0] == trueLogin && data[1] == truePass){
@@ -396,7 +396,7 @@ if(typeof GSspace !== "undefined"){
 						var backSUpBut = loginFormPlace.querySelector("#backSUpBut");				
 						document.querySelector("#trustTitul").insertAdjacentText("beforeend", "по смс");
 						document.querySelector("#messTrust").insertAdjacentText("beforeend", "Код подтверждения отправлен на номер");
-						document.querySelector("#telTrust").textContent = maskPhoneNumber(data[0]); //замена номера пообразцу - +7 951 ***-**-15
+						document.querySelector("#telTrust").textContent = maskPhoneNumber(data[0]);
 						
 						backSUpBut.addEventListener(typeTap, (e) => backToLoginForm(e));
 						reloadTimerforSendData(data[0], data[1]);
